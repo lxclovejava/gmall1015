@@ -34,12 +34,13 @@ public class UserController
      public  String getAllList(){
 
          List<UmsMember> allUser = userService.getAllUser();
-         if(allUser!=null&&allUser.size()>0){
-
+            if(allUser!=null&&allUser.size()>0){
          }
          return allUser.toString();
 
      }
+
+
 
 
 }
