@@ -1,4 +1,4 @@
-package com.atguigu.gmall.user.bean;
+package com.atguigu.gamll.bean;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
